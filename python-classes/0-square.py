@@ -2,6 +2,7 @@
 """Create an Empty Square """
 
 class Square:
-
-    ''' creates an empty square'''
+    ''' 
+    creates an empty square
+    '''
     pass
